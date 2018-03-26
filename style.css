@@ -37,7 +37,7 @@ img {
 	height: 100%;
 	width: 100%;
 	margin: auto;
-	background: url(https://static.pexels.com/photos/39811/pexels-photo-39811.jpeg) no-repeat 50% 50%;
+	background: url("img/underground.jpeg") no-repeat 50% 50%;
 	background-size: cover;
 	display: table;
 	top: 0;
@@ -128,7 +128,7 @@ nav:hover ul {
 #menu-icon {
 	width: 30px;
 	height: 26px;
-	background: url(img/nav-icon.png) center;
+	background: url("img/nav-icon.png") center;
 	display: inline-block;
 	margin: 50px 0 0 50px;
 }
@@ -176,7 +176,7 @@ nav:hover ul {
 }
 
 .parallax {
-	background: url("https://static.pexels.com/photos/593324/pexels-photo-593324.jpeg") fixed 100%;
+	background: url("img/Camera.jpeg") fixed 100%;
 	opacity: .5;
 	background-size: cover;
 }
